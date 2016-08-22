@@ -1,0 +1,72 @@
+{
+  "hash" : "9ae4a52f46fbba0c959575303f697deb73e72d63",
+  "data" : [ {
+    "statistic" : {
+      "total" : 12,
+      "passed" : 7,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 4,
+      "broken" : 1
+    },
+    "time" : {
+      "start" : 1471826307219,
+      "stop" : 1471828536700,
+      "duration" : 2229481
+    },
+    "name" : "total",
+    "type" : "TOTAL"
+  }, {
+    "name" : "defects",
+    "type" : "DEFECTS",
+    "data" : [ {
+      "count" : 2,
+      "message" : "AssertionError: 1 expectation failed.\nExpected status code <200> doesn't match actual status code <401>.\n",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "AssertionError: 1 expectation failed.\nExpected status code <200> doesn't match actual status code <400>.\n",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "AssertionError: 1 expectation failed.\nExpected status code <201> doesn't match actual status code <200>.\n",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "ConnectException: Connection refused",
+      "status" : "BROKEN"
+    } ]
+  }, {
+    "name" : "xunit",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Default Suite : RestApi",
+      "statistic" : {
+        "total" : 12,
+        "passed" : 7,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 4,
+        "broken" : 1
+      }
+    } ]
+  }, {
+    "name" : "behaviors",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Without feature",
+      "statistic" : {
+        "total" : 12,
+        "passed" : 7,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 4,
+        "broken" : 1
+      }
+    } ]
+  }, {
+    "name" : "environment",
+    "type" : "KEY_VALUE",
+    "data" : [ ]
+  } ]
+}

@@ -1,0 +1,47 @@
+{
+  "uid" : "170a8c062721fff5",
+  "name" : "chqconnectiontest",
+  "title" : "Chqconnectiontest",
+  "time" : {
+    "start" : 1471826307219,
+    "stop" : 1471826307221,
+    "duration" : 2
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "9ec8bbbed680e2f0",
+    "name" : "Default Suite : RestApi",
+    "title" : "Default Suite : RestApi"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Aams-MacBook-Pro-2.local"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Default Suite : RestApi"
+  }, {
+    "name" : "thread",
+    "value" : "4666@Aams-MacBook-Pro-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-name",
+    "value" : "Default Suite : RestApi"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,135 @@
+{
+  "testCases" : [ {
+    "uid" : "d978a1589912f7ab",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471826784024,
+      "stop" : 1471826785803,
+      "duration" : 1779
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "717941b2cbe12af6",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471827149541,
+      "stop" : 1471827151029,
+      "duration" : 1488
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4eeb749f5afaf2ec",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471826739757,
+      "stop" : 1471826740963,
+      "duration" : 1206
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4ebc0230c7a42dcb",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471828488329,
+      "stop" : 1471828489604,
+      "duration" : 1275
+    },
+    "severity" : "NORMAL",
+    "status" : "FAILED"
+  }, {
+    "uid" : "a0a5a238907a7bc9",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471826863904,
+      "stop" : 1471826865718,
+      "duration" : 1814
+    },
+    "severity" : "NORMAL",
+    "status" : "FAILED"
+  }, {
+    "uid" : "6c43a4fcd4583104",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471828536682,
+      "stop" : 1471828536700,
+      "duration" : 18
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d11b4fb8e8d822a9",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471827505152,
+      "stop" : 1471827506690,
+      "duration" : 1538
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8dc4f20faf8e68ef",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471828385239,
+      "stop" : 1471828387428,
+      "duration" : 2189
+    },
+    "severity" : "NORMAL",
+    "status" : "FAILED"
+  }, {
+    "uid" : "170a8c062721fff5",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471826307219,
+      "stop" : 1471826307221,
+      "duration" : 2
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "20adadd7a03b50f5",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471827412667,
+      "stop" : 1471827418139,
+      "duration" : 5472
+    },
+    "severity" : "NORMAL",
+    "status" : "BROKEN"
+  }, {
+    "uid" : "55d412005553b8fe",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471826826574,
+      "stop" : 1471826828121,
+      "duration" : 1547
+    },
+    "severity" : "NORMAL",
+    "status" : "FAILED"
+  }, {
+    "uid" : "83faee1da7f9835b",
+    "name" : "chqconnectiontest",
+    "title" : "Chqconnectiontest",
+    "time" : {
+      "start" : 1471828459670,
+      "stop" : 1471828459688,
+      "duration" : 18
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}
